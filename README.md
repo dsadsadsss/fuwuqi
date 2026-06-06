@@ -5,3 +5,5 @@ https://exe.dev/
 https://weirdhost.xyz/
 
 [minefort](https://minefort.com/)
+
+https://anaconda.com/
